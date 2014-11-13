@@ -1,4 +1,4 @@
 smservice
 =========
 
-Двухсторонняя платформа для смс рассылок.
+Dvosmjerna platforma za slanje sms poruka.
